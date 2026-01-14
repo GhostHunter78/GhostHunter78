@@ -32,6 +32,15 @@ I'm a passionate frontend developer focused on creating intuitive and performant
 
 I'm diving deep into **Nest.js** to expand my full-stack capabilities and build more robust backend solutions.
 
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhostHunter78&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostHunter78&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostHunter78&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 ### 📫 Let's Connect
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
