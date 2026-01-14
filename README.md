@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW80NXUxbjc5dWN1ZG9hZWhhNnQ2dTZkaHlkNWt2NjFoanozZ3FydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
+
 # Hi there, I'm Luka Talakvadze 👋
 
 ## Frontend Developer | Building Modern Web Experiences
