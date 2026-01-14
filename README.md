@@ -34,7 +34,33 @@ I'm diving deep into **Nest.js** to expand my full-stack capabilities and build 
 
 ### 📫 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/luka-talakvadze-375320296/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/luka.talakvadze.1/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:lukatalakvadze@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhostHunter78&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostHunter78&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostHunter78&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
